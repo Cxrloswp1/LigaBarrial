@@ -1,4 +1,3 @@
-//Ricardo Quelal
 public class Persona {
 
     private String nombre;
