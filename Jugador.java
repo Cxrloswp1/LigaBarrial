@@ -1,4 +1,3 @@
-//Ricardo Quelal
 public class Jugador extends Persona {
 
     private boolean esCapitan;
