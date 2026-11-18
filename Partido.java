@@ -1,4 +1,3 @@
-//Carlos Raul Morales Escudero
 public class Partido {
     private String local;
     private String visitante;
