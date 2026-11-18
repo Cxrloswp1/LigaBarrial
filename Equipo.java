@@ -1,4 +1,3 @@
-//Ricardo Quelal
 import java.util.ArrayList;
 import java.util.List;
 
